@@ -1,3 +1,3 @@
-## New project on gitlab.forge.orange-labs
+## New cf app. project
 
 *by dan*
