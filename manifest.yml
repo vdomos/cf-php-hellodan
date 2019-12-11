@@ -1,5 +1,5 @@
 applications:
-- name: php-hellodan-world
+- name: php-hellodan
   memory: 128M
   instances: 1
   buildpack: php_buildpack
